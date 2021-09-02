@@ -1,0 +1,27 @@
+﻿h1{
+	line-height:40px;
+	color:green;
+	font-size:40px;
+	font-family:lucida; 
+	text-align:center;
+}
+body
+{	
+	
+	font-size:20px;
+	text-indent: 80px;	
+	font-family:lucida sans;
+	line-height:30px;
+}
+#city{
+	background:orange;
+	width:30%;
+	border-color:green;
+	border-style:solid;
+	color:white;
+	font-family:Papyrus;
+		
+}
+h3{
+	color:red;
+}
